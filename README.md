@@ -1,2 +1,2 @@
-# picsend
-Using it and cron you can organize sending pictures into VK group chat
+# Picsender
+Automatic picsender that allows you to send pictures into VK.com group chat. Nothing interesting.
